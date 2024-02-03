@@ -22,9 +22,3 @@ app.use(routes)
 app.listen(PORT, () => {
     console.log(`Your server is running at PORT: ${PORT}!`);
 });
-
-
-
-// Username:    alimzhanislaSwiftNotes
-// Password:    OgtzlWDdcziDqHgg
-// MONGODB_LINK:    mongodb+srv://alimzhanislaSwiftNotes:<password>@cluster0.r2mmsfb.mongodb.net/?retryWrites=true&w=majority
